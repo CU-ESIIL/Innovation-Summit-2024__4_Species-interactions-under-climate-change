@@ -11,11 +11,11 @@ Work through the prompts in order. Please use a decision-making method “to dec
 ## Introductions (approx. time: 10 mins total or "1-2 breaths" per prompt)
 Please share the following information about yourself. Each team member should type their response in the space below (create more as needed).
 
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
+  - **Name:** Colleen Miller
+  - **Pronouns:** she/her
+  - **Expertise:** Sensory ecology, ecological data science, biological control of pests, animal physiology
+  - **Environmental Data Science Superpower:** Broad organismal expertise; experience working with experimental, observational and open data
+  - **Reflection on Polarities Exercise:** I don't like polarities, but I do have a quiet voice!
 
   ---
   - **Name:** [Your Name]
