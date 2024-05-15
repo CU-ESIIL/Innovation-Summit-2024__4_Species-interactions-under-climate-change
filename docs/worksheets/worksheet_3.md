@@ -62,9 +62,13 @@ Some options
 - Tamburini agricultural insect trait dataset
 - EltonTraits Bird/Mammal trait dataset
 - NEED: timestamped, local exteme/climate event data (e.g., drought, hurricane)
-- 
 
 **Goals**
+
+- We should plan to work with Pablo's general idea and framework and adapt our various broader ideas to this framework
+- We will spend the afternoon solidifying the datasets we want to use (and therefore the specific interactions that we will focus on)
+  - We will start with looking into using iNaturalist image data to do some image ID via Miguel
+
 
 ## Day 2 Report Back
 Day 2 report-back questions are about the team *process*. We are interested in your team’s unique experience. Below are some prompts you might consider. You don't need to address all of them - choose which ones you want to present. Please limit your reflection to 2-3 mins.  
