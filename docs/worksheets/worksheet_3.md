@@ -171,10 +171,28 @@ CyVerse share location: /iplant/home/miguelcleon/group4b
 Day 2 report-back questions are about the team *process*. We are interested in your team’s unique experience. Below are some prompts you might consider. You don't need to address all of them - choose which ones you want to present. Please limit your reflection to 2-3 mins.  
 
 1. **What worked well for your team?**
+- Each able to contribute some ideas about directions to move in
+- Then considered a variety of ideas
+- Then reached a conclusion about ways to move forward
+- Found a good way to agree on how to balance data-driven questions and system based paths 
+- Everyone has been very proactive/productive and has naturally found roles
+
 3. **What’s one thing you would change?**
-4. **Did your group ever have an “ah-ha” moment?  What led up to that moment?**
-5. **Did your group experience the groan zone?  What is one tip you want to share with future groups at the Summit about getting through the groan zone?**
-     - [insert your group reflection responses here]
+- Could have been more structured, but may be inherent to the process
+- Could have talked about communication styles earlier in the process, but we got around to later
+- Maybe could have created a central hub earlier (maybe more quickly facilitated)
+- We need a parking lot before we leave
+
+5. **Did your group ever have an “ah-ha” moment?  What led up to that moment?**
+- We captured the decision gradient mindset to move forward
+- Applying the cloud of ideas to the plant-pollinator
+
+7. **Did your group experience the groan zone?  What is one tip you want to share with future groups at the Summit about getting through the groan zone?**
+- Yes, definitely. 
+  - Getting project management structure earlier might be helpful. 
+  - Hard to generalize
+  - Definitely a necessary step
+
 
 **************************************************************
 
