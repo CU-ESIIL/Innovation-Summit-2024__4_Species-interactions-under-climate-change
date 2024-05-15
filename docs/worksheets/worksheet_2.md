@@ -25,11 +25,11 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** I like it, besides the complexities and seeming contradictions, there seem to be similarities among people
 
   ---
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
+  - **Name:** (Grant) Yu Liu
+  - **Pronouns:** He/Him/His
+  - **Expertise:** species invasions, species assembladges, data science, biogeography
+  - **Environmental Data Science Superpower:** Field work experience, coding in R, solving questions in the context of ecology
+  - **Reflection on Polarities Exercise:** NA
 
   ---
   - **Name:** [Your Name]
