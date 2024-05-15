@@ -56,11 +56,45 @@ Craft a catchy title for your team’s project. Think of something that would gr
 ## Promoting Resilience and Adaptation
 Describe how your proposed project aligns with the Summit's themes of resilience and adaptation. Please provide 1-2 sentences that clearly connect your project's goals or methods to these themes.
 
-- [Insert your response here]
+We sketched out how climate change (1) influences function traits/functions (2) which influences species interactions (3)
 
+Some species interactions we discussed:
+- predator-prey ints. in insects
+- plant-pollinator interactions
+- interspecies int. among plants
+- herbivory
+- seed dispersal
+- cicades, plant biomass, and predators
+
+Aspects of climate change:
+- Approaches
+- temporal data (lt. vs. syn)
+- space for time
+- time for time
+- modeled
+- alt. for time
+
+Some whiteboarded topics (what is resilience):
+- resilience of interactions
+- network connectivity types
+- species function (e.g. pollination) -> which functions are lost/retained?
+- Recovery after disturbance
 
 ## Choosing Big Data Sets
 Explore potential data sets for your project's topic from the [data library](https://cu-esiil.github.io/data-library/). List your options below, organizing them by whether they represent the system you're studying (e.g., deciduous forests) or the disruption to it (e.g., wildfire). Then discuss your choices and indicate your final selections.
+
+List of data sets from 5/14:
+- NEON species occurrence
+- Seed dispersal data (Grant)
+- Web of life (spatially explicit, spp. itneraction data)
+- Globi (synthetic, timestamped)
+- iNaturalist
+- eBird
+- LTER trove
+- eltontraits
+- flux towers
+- pollinator types (Grant)
+
 
 ### Draft Potential Data Sets
   - **System Being Perturbed/Disrupted:**
