@@ -85,8 +85,9 @@ Explore potential data sets for your project's topic from the [data library](htt
 List of data sets from 5/14:
 - NEON species occurrence
 - Seed dispersal data (Grant)
-- Web of life (spatially explicit, spp. itneraction data)
-- Globi (synthetic, timestamped)
+- Web of life (spatially explicit, spp. itneraction data) [Web of Life](https://www.web-of-life.es/)
+- Globi (synthetic, timestamped)  [GloBI](https://www.globalbioticinteractions.org/)
+- [IWDB] (http://www.ecologia.ib.usp.br/iwdb/)
 - iNaturalist
 - eBird
 - LTER trove
