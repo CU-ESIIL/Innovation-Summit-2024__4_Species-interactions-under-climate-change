@@ -21,6 +21,8 @@ Please share the following informaton with your team. (No need to write down you
 ## Decision-Making
 Use the gradient of agreement (Kaner 20214) to make decisions as a team.
 
+We will use the gradients of agreement to make big decisions, but expect to reach consensus on any permanent/written products.
+
 ![Gradients of agreement](../worksheets/love_gradient-of-agreement.png)
 
 ## Day 2 Report Back
