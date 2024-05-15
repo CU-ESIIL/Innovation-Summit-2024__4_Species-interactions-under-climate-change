@@ -25,7 +25,7 @@ We will use the gradients of agreement to make big decisions, but expect to reac
 
 ![Gradients of agreement](../worksheets/love_gradient-of-agreement.png)
 
-## Day 2 Morning Notes
+## Day 2 Morning Notes - Colleen
 
 **Group Decision Making**
 - We will make most decisions using the decision gradient tool, but final *written* decisions (e.g., final research question and strategy) will be decided via consensus
@@ -68,6 +68,103 @@ Some options
 - We should plan to work with Pablo's general idea and framework and adapt our various broader ideas to this framework
 - We will spend the afternoon solidifying the datasets we want to use (and therefore the specific interactions that we will focus on)
   - We will start with looking into using iNaturalist image data to do some image ID via Miguel
+
+## Day 2 Morning Notes - Miguel
+
+
+**Your CyVerse account:**
+Miguel Leon: miguelcleon
+Colleen: ccm246
+YJ: yjsu1028
+Grant: grant5500
+Pablo: pmoreno92 
+
+CyVerse share location: /iplant/home/miguelcleon/group4b
+/iplant/home/shared/iplant_esiil_summit/2024/group_04b
+
+**ESIIL - 5-15-2024**
+**Possible outcomes from groups**
+- When are we meeting next?
+- One pager? 
+- Conceptual Framework
+- A figure that describes your project
+- List of data sources
+  - Later
+    - Lets put together a conference abstract 
+
+**Team 4b**
+- Tension between broadness and narrowing in 
+
+**Datasets**
+- LUQ LTER 
+  - Phenology of Forest Dynamics Plot - ~160 species of flowering, fruiting and seeding; ~30 years 
+    - I have some specific functional trait data for some species 
+    - Leaf area; max height, etc 
+- Bird surveys - 1989 -2021 annual population survey
+- Gastropods
+- Phasmids (Walking sticks)
+- Shrimp; aquatic insects 
+- Met, precip min max temp
+- LTER Network; We can try to pull data similar data
+
+
+
+
+**Ideas**
+- We can try to pull the data into CyVerse - having a bunch of data in a shared space in CyVerse could be a product we can pull together  
+- I can scrape the entire EDI Data repository - I have code to do this 
+  - We could then work on categorizing it - what are potentially relevant data to species interactions; morphology; functional traits 
+    - Are methods comparable? 
+  - I can scrape metadata to find keywords - I already have code to do this  
+    - This assumes metadata are sufficient to find what we are looking for. 
+- Build an R tool for pulling functional trait data for LTER
+  - Potentially add the ability to merge it with NEON data 
+    - Pitfalls
+      - Divergent methods might make data incongruous 
+- Make a specific example of merging some LTER data with some NEON data for species interactions and climate change 
+  - Extreme  events - 
+    - I have drought periods and hurricane events defined - 
+    - frequency and severity of drought
+  - Similar data from the same site or same ecotone - 
+
+**YJ** - 
+- Web of life - 
+  - Species interactions from several different species 
+  - Some of these have interaction strength 
+  - Paired data 0,1 species interact or not 
+  - Bees - comparable with inaturalist data 
+- Resilience 
+  - Recovery rate 
+- Resistance 
+- How do we choose the reference point? 
+
+
+**Grant**
+- Decide first the location, NEON sites 
+- Customized location list - any location in the world? 
+- Response variables - should be about resilience - 
+  - Quantify the resilience, changes in the number of interactions to quantify resilience 
+  - Functional trait diversity
+    - Collect multiple traits - reduce multiple traits into a single composite index, distance matrix  
+  - Philogenetic diversity 
+    - Philongeny 
+  - Community level or species level
+    - One value about resilience, one about location, 
+  - Explantory variables - climate, temp or precip changes 
+    - NEON data - soils- sand, silt, clay
+    - Geographical variables 
+  - Make a proposal first -   
+  - Seed disposal database - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10354656/ 
+**Pablo** 
+- Pollination change - powerpoint 	
+- Plantnet 
+**Phylogenetic trees - rtrees**
+- Connects to Rgbif API  
+  - Search inaturalist - for pollinator 
+**Ruby throated hummingbird**
+  
+
+
 
 
 ## Day 2 Report Back
