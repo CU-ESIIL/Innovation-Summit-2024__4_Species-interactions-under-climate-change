@@ -25,6 +25,47 @@ We will use the gradients of agreement to make big decisions, but expect to reac
 
 ![Gradients of agreement](../worksheets/love_gradient-of-agreement.png)
 
+## Day 2 Morning Notes
+
+**Group Decision Making**
+- We will make most decisions using the decision gradient tool, but final *written* decisions (e.g., final research question and strategy) will be decided via consensus
+
+**Identified tension**
+- Are we methods/data drive OR are we system/hypothesis driven (e.g. type of species interaction?) (Maybe more methods/data driven, with bias towards systems we know well)
+- Are we climate change response driven or mechanistically drive? (Probably more response/change driven)
+
+**Research Questions**
+ - General focus: How does climate change affect specie sinteractions
+   - Explanatory variables: change in climate or some climate change-connected extreme event of some frequency/severity, and habitat/geographic variables
+   - Response variables: number of interactions, functional diversity, phylogenetic diversity
+- [Pablo's general research ideas] https://docs.google.com/presentation/d/1pUqs0mrHxMR-FMcc_acRCcLccBqBfMEz/edit?usp=sharing&ouid=105655421727470960440&rtpof=true&sd=true
+
+**Methodologies**
+- Pull lots of data into cyverse and explore
+- Scrape EDI repository and upload to cyverse
+- build rtool to pull relevant data from EDI revelant to question
+- merge LTER and NEON data
+- Need to think about the spatial scale of the data: are we working at the regional scale or ecotone level?
+  - Our questions will probably require longitudinal data (20-30 year timespan) to more explicitly test influence of climate change over time (need deep data)
+  - Location of data: NEON or other network sites vs. custom sites vs. dispersed data (e.g., community science data)
+- Functional traits of a given site (PCA to represent diversity, distance matrix)
+- Phylogenetic traits: use phylogenies (narrows down the types taxa we work with). 
+
+**Datasets/Databases**
+Some options
+- IWDB
+- TRY
+- GIFT
+- Plant for a future
+- Web of life (binary species interaction data) combined with some richer, deeper, data source
+- NEON (good habitat/landscape data!)
+- Tamburini agricultural insect trait dataset
+- EltonTraits Bird/Mammal trait dataset
+- NEED: timestamped, local exteme/climate event data (e.g., drought, hurricane)
+- 
+
+**Goals**
+
 ## Day 2 Report Back
 Day 2 report-back questions are about the team *process*. We are interested in your team’s unique experience. Below are some prompts you might consider. You don't need to address all of them - choose which ones you want to present. Please limit your reflection to 2-3 mins.  
 
