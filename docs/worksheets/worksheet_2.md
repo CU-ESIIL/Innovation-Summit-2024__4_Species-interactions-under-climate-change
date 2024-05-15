@@ -32,12 +32,11 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** NA
 
   ---
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
+   - **Name:** Yahn-Jauh (YJ) Su
+  - **Pronouns:** He/Him/His
+  - **Expertise:** ecosystem ecology, carbon cycle
+  - **Environmental Data Science Superpower:** Eddy Covariance data treatment, statistics and models in R 
   - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
-
   ---
   - Continue adding more team members following the same format, with a line break after each person.
   ---
