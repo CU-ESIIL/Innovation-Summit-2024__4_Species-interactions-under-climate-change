@@ -18,11 +18,11 @@ Please share the following information about yourself. Each team member should t
   - **Reflection on Polarities Exercise:** I don't like polarities, but I do have a quiet voice!
 
   ---
-  - **Name:** [Your Name]
-  - **Pronouns:** [Your Pronouns]
-  - **Expertise:** [Your Expertise]
-  - **Environmental Data Science Superpower:** [Describe your unique skill or interest in environmental data science]
-  - **Reflection on Polarities Exercise:** [Share one thing you observed about yourself]
+  - **Name:** Pablo Moreno-García
+  - **Pronouns:** He/Him/His
+  - **Expertise:** Ecological networks, pollination, data science, functional ecology
+  - **Environmental Data Science Superpower:** Experience field work and open data, work on interaction networks, programming skills
+  - **Reflection on Polarities Exercise:** I like it, besides the complexities and seeming contradictions, there seem to be similarities among people
 
   ---
   - **Name:** [Your Name]
