@@ -5,7 +5,8 @@ GBIF record: 1024186271	StillImage	image/jpeg	https://inaturalist-open-data.s3.a
 
 # **Pollination Resilient Interactions (PRI): Resilience of plant-pollinator interactions in the face of climate change**
       
-- **Research Question:**
+- **Research Question:**![Create a watercolor-style logo with a blooming flower as the background and a hummingbird in the foreground  Reflect the work on investigating the res](https://github.com/CU-ESIIL/Innovation-Summit-2024__4_Species-interactions-under-climate-change/assets/5941108/2f3a5bc3-555c-41ea-970a-81b3ed4b1af4)
+
     - How have California droughts affected the structure and diversity of plant-pollinator interactions?
       
 - **One interesting graphic/finding:**
