@@ -3,8 +3,7 @@ GBIF record: 1024186271	StillImage	image/jpeg	https://inaturalist-open-data.s3.a
 
 ![image](https://github.com/CU-ESIIL/Innovation-Summit-2024__4_Species-interactions-under-climate-change/assets/5941108/ddd2c755-8c9f-4954-a379-cae63f8ecd26)
 
-# **Project Title:**
-    - Pollinating Resilient Interactions (PRI): Resilience of plant-pollinator interactions in the face of climate change
+# **Pollinating Resilient Interactions (PRI): Resilience of plant-pollinator interactions in the face of climate change**
       
 - **Research Question:**
     - How have California droughts affected the structure and diversity of plant-pollinator interactions?
